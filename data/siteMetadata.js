@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Chatmee X',
-  author: 'xuxudong',
+  title: '简觅科技',
+  author: '洛天霸',
   headerTitle: '简觅科技',
-  description: 'AI时代 | CHATMEE | 专注用户价值创造',
+  description: 'CHATMEE | AI时代 | 专注用户价值创造',
   language: 'zh-cn',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
