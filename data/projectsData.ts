@@ -8,6 +8,12 @@ interface Project {
 const projectsData: Project[] = [
   {
     title: '魔力空间Mooly',
+    description: `一款以AI为核心的个人成长全能助手`,
+    imgSrc: '/static/images/mooly/2.2.5/1.jpg',
+    href: '/blog/魔力空间Mooly_2.2.5',
+  },
+  {
+    title: '魔力空间Mooly',
     description: `一款以AI为核心的个人成长陪伴助手`,
     imgSrc: '/static/images/mooly/7.jpg',
     href: '/blog/魔力空间Mooly',
